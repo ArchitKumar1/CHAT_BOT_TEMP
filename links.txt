@@ -1,0 +1,8 @@
+https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d
+
+
+https://towardsdatascience.com/build-your-first-chatbot-using-python-nltk-5d07b027e727
+
+https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
+
+https://moz.com/blog/chat-bot
